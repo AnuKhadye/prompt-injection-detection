@@ -1,11 +1,12 @@
 # Prompt Injection Detection Using Traditional ML and Transformer Models: A Comparative Robustness Analysis
 
-**Author:** Anurag Harishchandra Khadye
-**Student ID:** 14125645
-**Module:** 6003CMD — Dissertation and Project Artefact
-**Degree:** BSc Computer Science with Artificial Intelligence
-**Institution:** Coventry University
-**Supervisor:** Mr. Taylor Ring
+**Author:** Anurag Harishchandra Khadye  
+**Student ID:** 14125645  
+**Module:** 6003CMD — Dissertation and Project Artefact  
+**Degree:** BSc Computer Science with Artificial Intelligence  
+**Institution:** Coventry University  
+**1st Supervisor:** Mr. Taylor Ring  
+**2nd Supervisor:** Mrs. Ushma Mulji  
 **Academic Year:** 2025/26
 
 ---
