@@ -6,7 +6,7 @@
 **Degree:** BSc Computer Science with Artificial Intelligence  
 **Institution:** Coventry University  
 **1st Supervisor:** Mr. Taylor Ring  
-**2nd Supervisor:** Mrs. Ushma Mulji  
+**2nd Supervisor:** Ms. Ushma Mulji  
 **Academic Year:** 2025/26
 
 ---
